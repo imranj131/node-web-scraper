@@ -1,5 +1,4 @@
-{
-    "022A": "Stamer Musikanlagen GMBH",
+companyIdentifierCodes : {
     "0000": "Ericsson Technology Licensing",
     "0001": "Nokia Mobile Phones",
     "0002": "Intel Corp.",
@@ -553,6 +552,7 @@
     "0227": "LifeBEAM Technologies",
     "0228": "​Twocanoes Labs, LLC",
     "0229": "​Muoverti Limited",
+    "022A": "Stamer Musikanlagen GMBH",
     "022B": "​Tesla Motors",
     "022C": "​Pharynks Corporation",
     "022D": "​Lupine",
@@ -569,6 +569,4 @@
     "0238": "​Trakm8 Ltd",
     "0239": "​JIN CO, Ltd",
     "023A": "​Alatech Technology",
-    "FFFF": "​This value has special meaning depending on the context in which it used. Link Manager Protocol (LMP): This value may be used in the internal and interoperability tests before a Company ID has been assigned. This value shall not be used in shipping end products. Device ID Profile: This value is reserved as the default vendor ID when no Device ID service record is present in a remote device.",
-    "XXXX": " Other values reserved"
 }
